@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Mykhailo
 
-<!--
-**maklarus/maklarus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT enthusiast & Fachinformatiker für Systemintegration (Apprentice) at **Axians Networks & Solutions GmbH** 🇩🇪
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- 🌐 **Frontend:** HTML, CSS, JavaScript, React
+- ⚙️ **Backend:** Node.js, Express.js
+- 🖥️ **IT:** Windows, Hardware, Networking, Troubleshooting
+- 🔧 **Tools:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Interests
+- 🔐 Cybersecurity
+- 🌐 IT Infrastructure & Networking
+- 🖥️ System Administration
+- 💻 Web Development
+
+### 🚀 Projects
+- 💧 **AquaTrack** – Hydration tracking app
+- 🇺🇦 **Vyshyvanka Vibes** – Ukrainian-inspired web app
+- 🎨 **WebStudio** – Responsive website
+
+📚 Always learning, building and exploring new technologies.
